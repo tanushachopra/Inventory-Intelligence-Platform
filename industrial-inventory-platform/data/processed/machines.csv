@@ -1,0 +1,11 @@
+machine_id,machine_type,criticality_score,downtime_cost_per_hour,install_year
+M01,CNC Lathe,3,57500,2022
+M02,Hydraulic Press,4,60900,2021
+M03,Injection Molder,2,22200,2019
+M04,Welding Robot,3,33300,2014
+M05,Conveyor Drive,1,22700,2017
+M06,Stamping Press,1,22900,2012
+M07,Assembly Robot Arm,3,44700,2020
+M08,Grinding Machine,3,47400,2021
+M09,Packaging Unit,1,22700,2014
+M10,Compressor Unit,3,58500,2020

@@ -1,0 +1,11 @@
+machine_id,current_failure_risk,current_health_score,days_to_critical_risk,machine_type,criticality_score,downtime_cost_per_hour,install_year,scheduled_date,maintenance_type,days_to_scheduled_maintenance,maintenance_status
+M01,0.25,53.0,29.0,CNC Lathe,3,57500,2022,2026-02-14,Full Overhaul,45,AT RISK - Before Scheduled Maintenance
+M02,0.004,95.1,,Hydraulic Press,4,60900,2021,2026-01-14,Routine Inspection,14,Stable
+M03,0.738,11.7,1.0,Injection Molder,2,22200,2019,2026-01-21,Routine Inspection,21,AT RISK - Before Scheduled Maintenance
+M04,0.029,81.3,,Welding Robot,3,33300,2014,2026-02-08,Part Replacement,39,Stable
+M05,0.016,94.9,,Conveyor Drive,1,22700,2017,2026-04-04,Routine Inspection,94,Stable
+M06,0.203,49.3,,Stamping Press,1,22900,2012,2026-02-12,Routine Inspection,43,Stable
+M07,0.264,44.9,,Assembly Robot Arm,3,44700,2020,2026-02-28,Routine Inspection,59,Stable
+M08,0.222,55.3,18.0,Grinding Machine,3,47400,2021,2026-03-02,Routine Inspection,61,AT RISK - Before Scheduled Maintenance
+M09,0.875,9.6,1.0,Packaging Unit,1,22700,2014,2026-01-29,Part Replacement,29,AT RISK - Before Scheduled Maintenance
+M10,0.64,21.6,1.0,Compressor Unit,3,58500,2020,2026-02-23,Full Overhaul,54,AT RISK - Before Scheduled Maintenance

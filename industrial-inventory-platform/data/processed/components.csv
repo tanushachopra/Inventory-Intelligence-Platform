@@ -1,0 +1,26 @@
+component_id,component_name,category,linked_machine_id,lead_time_days,unit_cost,maintenance_triggered_reorder
+C001,Sub-Assembly Item 001,Sub-Assembly Item,M06,7,1957.81,False
+C002,Raw Material 002,Raw Material,M09,14,1330.96,True
+C003,Sub-Assembly Item 003,Sub-Assembly Item,M03,10,4700.52,True
+C004,Consumable 004,Consumable,M03,7,2954.42,True
+C005,Consumable 005,Consumable,M02,5,77.33,False
+C006,Machine Part 006,Machine Part,M04,3,4322.36,False
+C007,Machine Part 007,Machine Part,M04,5,4859.97,False
+C008,Raw Material 008,Raw Material,M07,7,1048.51,False
+C009,Machine Part 009,Machine Part,M02,5,4717.13,False
+C010,Raw Material 010,Raw Material,M09,7,1131.28,True
+C011,Machine Part 011,Machine Part,M02,14,4310.62,False
+C012,Raw Material 012,Raw Material,M04,21,1649.85,False
+C013,Machine Part 013,Machine Part,M03,5,1459.96,True
+C014,Raw Material 014,Raw Material,M07,3,2472.79,False
+C015,Machine Part 015,Machine Part,M08,7,3185.97,True
+C016,Raw Material 016,Raw Material,M10,7,1171.15,True
+C017,Raw Material 017,Raw Material,M06,7,3494.13,False
+C018,Machine Part 018,Machine Part,M10,14,984.1,True
+C019,Raw Material 019,Raw Material,M02,14,3051.82,False
+C020,Machine Part 020,Machine Part,M07,7,4972.56,False
+C021,Consumable 021,Consumable,M02,7,513.69,False
+C022,Machine Part 022,Machine Part,M01,10,2538.05,True
+C023,Raw Material 023,Raw Material,M07,21,4771.95,False
+C024,Machine Part 024,Machine Part,M02,7,4902.64,False
+C025,Machine Part 025,Machine Part,M09,14,4653.58,True
