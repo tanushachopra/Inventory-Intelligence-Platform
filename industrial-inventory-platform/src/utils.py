@@ -1,9 +1,9 @@
 """Shared data-loading utilities for all Streamlit pages."""
-
+import os
 import pandas as pd
 import streamlit as st
 
-DATA_DIR = "data/processed"
+ import os DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "processed")
 
 
 @st.cache_data
