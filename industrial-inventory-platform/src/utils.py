@@ -1,9 +1,14 @@
 """Shared data-loading utilities for all Streamlit pages."""
+
 import os
 import pandas as pd
 import streamlit as st
 
- import os DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "processed")
+# Resolve DATA_DIR relative to THIS file's location (src/utils.py), not the
+# current working directory. This makes data loading work correctly no
+# matter where the app is launched from -- local VS Code, a nested GitHub
+# repo folder, or Streamlit Cloud's /mount/src/... path.
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "processed")
 
 
 @st.cache_data
